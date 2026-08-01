@@ -18,11 +18,11 @@
 
 <!-- SETUP: Replace this section during onboarding -->
 
-**Name:** [Your name]
-**Role:** [Your role/title]
-**Company:** [Your company/org]
-**Timezone:** [Your timezone]
-**Communication Style:** [Direct / Detailed / Casual / Formal]
+**Name:** Stephanie
+**Role:** Personal use (not work-related)
+**Company:** N/A
+**Timezone:** Mountain Time (MT)
+**Communication Style:** Casual
 
 ### Key Contacts
 <!-- Add people MARVIN should know about -->

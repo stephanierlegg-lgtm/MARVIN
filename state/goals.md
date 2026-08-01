@@ -1,18 +1,14 @@
 # Goals
 
-<!-- SETUP NOT COMPLETE: Tell MARVIN about your goals during setup -->
-
-Last updated: Not yet configured
+Last updated: 2026-07-31
 
 ---
 
 ## Work Goals
 
-<!-- Goals related to your job: KPIs, projects, professional development -->
+<!-- Not tracking work goals - this MARVIN is for personal use -->
 
-| Goal | Target | Status | Notes |
-|------|--------|--------|-------|
-| *Example: Ship feature X* | *Q2* | *In progress* | |
+None tracked.
 
 ---
 
@@ -22,7 +18,8 @@ Last updated: Not yet configured
 
 | Goal | Target | Status | Notes |
 |------|--------|--------|-------|
-| *Example: Run a 5K* | *June* | *Not started* | |
+| Home decorating/painting | - | Not started | Projects around the house |
+| Increase hobbies | - | Not started | Explore/build new hobbies |
 
 ---
 

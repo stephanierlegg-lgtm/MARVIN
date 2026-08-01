@@ -1,15 +1,11 @@
 # Current State
 
-<!-- SETUP NOT COMPLETE: This file has placeholder content -->
-<!-- MARVIN will populate this during your first session -->
-
-Last updated: Not yet configured
+Last updated: 2026-07-31
 
 ## Active Priorities
 
-1. [Complete MARVIN setup]
-2. [Your priorities will appear here]
-3. [Updated every session by /end and /update]
+1. Home decorating/painting projects
+2. Growing new hobbies
 
 ## Open Threads
 
@@ -19,6 +15,8 @@ Last updated: Not yet configured
 
 <!-- Last 5 session summaries, newest first -->
 <!-- Managed automatically by /end -->
+
+- 2026-07-31: Completed MARVIN onboarding. Set up for personal use (casual style, Mountain Time). Goals: home decorating/painting, increasing hobbies.
 
 ---
 
