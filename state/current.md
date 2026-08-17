@@ -17,13 +17,14 @@ Last updated: 2026-07-31
   3. Should Patient Appointment Communication Standards be added as a 7th workflow under Rock 3, or scoped for Q4?
 - **Track C gate** - waiting on Dr. Scott/Jessica/Shar feedback on the Jun 26 SOP outlines before starting the Phase 1 build (Jul 1 - 18 window is at risk if feedback is delayed)
 - Note: week of Aug 4 is PTO - all Rock 1 and Rock 3 timelines already account for this
-- **Inbox: 5 threads need a reply** (tagged Actionable in Gmail) - Paid Holidays policy language (Jessica open to revising), Onboarding photo-on-white-wall step ownership, Glossary of Codes build, Onboarding paperwork uploads question (Shar), SOP Rollout Tracker (Jessica said "perfect" - just needs a close-the-loop reply)
+- **Inbox: 73 threads need a reply** (tagged Actionable in Gmail) - the full "remove read + non-actionable" sweep is done. Includes Paid Holidays policy language, Onboarding photo-on-white-wall step, Glossary of Codes build, SOP Rollout Tracker, plus a large backlog of never-answered messages from Jessica, Shar, Dr. Metcalf, front office staff (angelical, scottb, eastlayton, community@), and a few external contacts (Orthofi rep, Axe & Smash owner) going back to March 2026. This is a big triage job - worth blocking time to work through it (reply, delegate, or consciously archive each one).
 - **Stale open loops surfaced during inbox cleanup (not touched, worth a gut check):** Jun 26 "Operations and Revenue Role Architecture" doc thread (Scott/Jessica, Rock 1) and a Jun 30 SOP thread cc'ing Dr. Scott - both had someone else's message as the last word, over a month old, archived without reply
 
 ## Recent Context
 
 - 2026-07-31: Completed MARVIN setup. Loaded Q3 Execution Plan (Rocks 1-3 + Minor Rock) as work goals. Personal goals set: reduce stress, clean up calendar, clean up personal email, house decorating, resume hobbies. Communication style: direct, honest, kind, willing to challenge.
 - 2026-08-17: Organized Gmail inbox into labels at Stephanie's request: Rock 1 - Leadership, Rock 2 - Core Processes, Rock 3 - Treatment Acceptance, Whale SOP Build, HR & Payroll, Patient Records, Doc Notifications, Personal, and Actionable (threads awaiting her reply stay in inbox; everything else archived once resolved). Inbox went from 528 to 332 threads. Google Drive, Gmail, and Google Calendar connectors confirmed working (work account stephanier@mysummitdental.com only - no personal Gmail account connected).
+- 2026-08-17 (cont'd): Completed the full "remove read + non-actionable" sweep, working back through the entire inbox to March 2026. Archived every read thread where Stephanie had already sent the last reply or where it was pure vendor/notification noise (Cherry, 1Password, TextExpander, Weave, Whale, BloomGrowth, Spear Education, OrthoFi, financing vendors like Affirm/Sunbit/GreenSky/Klarna/LendingClub). Tagged Actionable anything read where someone else was still waiting on a reply. Final result: inbox went from 528 to 76 threads (86% reduction); 73 of those 76 are Actionable, 3 are unread (untouched). The Actionable label is now the primary to-do list for email - see above.
 
 ---
 
